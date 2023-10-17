@@ -1,3 +1,3 @@
 public void Saludar {
-System.out.println("Hola");
+System.out.println("Adios");
 }
